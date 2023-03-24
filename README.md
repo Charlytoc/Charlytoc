@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @Charlytoc
-- 👀 I’m interested in full-stack development
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in full-stack AI development
+- 🌱 I’m currently learning CS50AI course and AI technologies
+- 💞️ I’m looking to collaborate on small and big projects
 
 <!---
 Charlytoc/Charlytoc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
